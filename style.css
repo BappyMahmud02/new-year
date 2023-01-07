@@ -88,14 +88,20 @@ font-size: 40px;
 font-weight: 700;
 
 }
+
 .font-design{
     font-size: 20px;
     font-weight: 900;
 }
-.third-second-part{
+
+.third-baby{
     display: flex;
     gap: 100px;
-    margin-left: 500px;
+    justify-content: center;
+}
+.third-second-part{
+    
+    margin: auto;
     margin-top: 70px;
     text-align: center;
 }
