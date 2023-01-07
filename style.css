@@ -1,3 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
 .central-one{
     
     background-image: url("./banner/banner1.png");
@@ -130,6 +137,7 @@ font-weight: 700;
     color: aliceblue;
     background-color: black;
     margin-top: 100px;
+    height: 300px;
     
 }
 
@@ -138,12 +146,14 @@ font-weight: 700;
 }
 .fift-one{
     margin-left: 400px;
+    margin-top: 50px;
 }
 .fifth-item{
     color: rgb(163, 163, 161);
 }
 .other-side{
     margin-left: 400px;
+    margin-top: 50px;
 }
 .btn-fourth{
     background-color: rgb(99, 248, 13);
