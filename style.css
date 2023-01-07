@@ -1,0 +1,167 @@
+.central-one{
+    
+    background-image: url("./banner/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.heading-one{
+    padding-top: 300px;
+    padding-right: 200px;
+    text-align: right;
+   
+    
+
+}
+.head-one{
+    font-size: 90px;
+    font-weight: 700;
+    
+    
+}
+.head-two{
+    font-size: 20px;
+    font-weight: 100;
+    
+    
+}
+.btn-one{
+    background-color: rgb(99, 248, 13);
+    height: 50px;
+    width: 120px;
+    border: none;
+    border-radius:15px ;
+    font-size: 15px;
+    font-weight: 700;
+
+}
+/* second part of my web */
+
+
+.central-two{
+    display:flex;
+    margin-top:100px;
+    justify-content: center;
+
+}
+
+
+.central-two div{
+    margin:100px
+}
+.design {
+    color: aquamarine;
+    
+}
+
+.second-para{
+    padding-top:100px
+}
+.head{
+    font-size: 40px;
+    
+}
+.para-two{
+    font-size: 20px;
+    color: rgb(116, 117, 117);
+    
+}
+.para-three{
+    margin-bottom: 20px;
+    
+    
+}
+/* third part of my web */
+
+.heading-three{
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+
+}
+.font-design{
+    font-size: 20px;
+    font-weight: 900;
+}
+.third-second-part{
+    display: flex;
+    gap: 100px;
+    margin-left: 500px;
+    margin-top: 70px;
+    text-align: center;
+}
+.paragraph{
+    color: rgb(138, 138, 135);
+}
+/* fourth part of my web */
+
+.fourth-part{
+    background-image : linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+    url("./watch.png");
+    background-repeat:  no-repeat;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.fourth-head{
+    margin-left: 50px;
+    padding-top: 45px;
+    color: rgb(240, 204, 159);
+    font-size: 30px;
+
+}
+.btn-second{
+    background-color: rgb(99, 248, 13);
+    height: 50px;
+    width: 120px;
+    border: none;
+    border-radius:15px ;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 50px;
+
+}
+/* fifth part of my web */
+.fifth-part{
+    display: flex;
+    color: aliceblue;
+    background-color: black;
+    margin-top: 100px;
+    
+}
+
+.icon-item{
+    padding: 10px;
+}
+.fift-one{
+    margin-left: 400px;
+}
+.fifth-item{
+    color: rgb(163, 163, 161);
+}
+.other-side{
+    margin-left: 400px;
+}
+.btn-fourth{
+    background-color: rgb(99, 248, 13);
+    height: 50px;
+    width: 120px;
+    border: none;
+    border-radius:15px ;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 5px;
+    
+    
+    
+}
+.email-btn{
+    color: rgb(0, 0, 0);
+    background-color: rgb(155, 142, 142);
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
